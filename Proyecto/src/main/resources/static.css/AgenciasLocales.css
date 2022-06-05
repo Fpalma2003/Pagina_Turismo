@@ -6,4 +6,14 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     Created on : 4 jun. 2022, 17:07:03
     Author     : Andra Mckenzie Araya
 */
-
+.container {
+    height:100vh;
+    width:100%;
+    background-image: url(../images/fondo-home1.jpg);
+    background-position:center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position:relative;
+}
